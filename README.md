@@ -1,138 +1,115 @@
-\# Hola 👋 Soy Yael Authier
+# Hola 👋 Soy Yael Authier
 
+### Growth Strategist | Comercial & Marketing | Data Science & MLOps
 
+Actualmente trabajo liderando iniciativas de crecimiento, analítica, fidelización, delivery y expansión comercial en gastronomía, mientras desarrollo proyectos de Data Science, Machine Learning y MLOps orientados a negocio y automatización.
 
-Growth Strategist | Comercial \& Marketing | Data Science \& MLOps
+🔗 LinkedIn
+https://www.linkedin.com/in/yael-authier
 
+---
 
+## 🚀 Tecnologías y herramientas
 
-Actualmente trabajo liderando iniciativas de growth, analytics, loyalty, delivery y expansión comercial en gastronomía, mientras desarrollo proyectos de Data Science y Machine Learning orientados a negocio y automatización.
+* Python
+* Pandas / NumPy
+* Scikit-Learn
+* XGBoost / CatBoost
+* FastAPI
+* Streamlit
+* Docker
+* Git & GitHub
+* SonarCloud
+* Power BI
+* SQL
+* Machine Learning
+* MLOps
 
+---
 
+## 📌 Proyectos publicados
 
-\---
+### 🔹 Proyecto Integrador 5 - MLOps
 
+Pipeline completo de Machine Learning y MLOps para predicción de pago de créditos.
 
+Incluye:
 
-\## Tecnologías y herramientas
-
-
-
-\* Python
-
-\* Pandas / NumPy
-
-\* Scikit-Learn
-
-\* XGBoost / CatBoost
-
-\* FastAPI
-
-\* Streamlit
-
-\* Docker
-
-\* Git \& GitHub
-
-\* SonarCloud
-
-\* Power BI
-
-\* SQL
-
-\* Machine Learning
-
-\* MLOps
-
-
-
-\---
-
-
-
-\## Proyecto destacado
-
-
-
-\### Proyecto Integrador MLOps - Predicción de Pago de Créditos
-
-
-
-Pipeline completo de Machine Learning y MLOps:
-
-
-
-\* EDA y feature engineering
-
-\* Modelos supervisados
-
-\* Monitoreo de data drift
-
-\* API con FastAPI
-
-\* Dashboard Streamlit
-
-\* Docker
-
-\* Tests automáticos
-
-\* CI/CD
-
-\* Deploy cloud en Render
-
-
+* FastAPI
+* Docker
+* Streamlit
+* SonarCloud
+* CI/CD
+* Tests automáticos
+* Deploy en Render
 
 🔗 Repo:
-
 https://github.com/Yael-Authier/proyecto-integrador-5
 
-
-
 🔗 API deployada:
-
 https://pi-m5-riesgo-crediticio.onrender.com/docs
 
+---
 
+### 🔹 Proyecto Integrador 4
 
-\---
+Machine Learning aplicado a análisis predictivo y evaluación de modelos.
 
+🔗 Repo:
+https://github.com/Yael-Authier/proyecto-integrador-4
 
+---
 
-\## Actualmente aprendiendo
+### 🔹 Proyecto Integrador 3
 
+Procesamiento, análisis y visualización de datos.
 
+🔗 Repo:
+https://github.com/Yael-Authier/proyecto-integrador-3
 
-\* MLOps
+---
 
-\* Deploy cloud
+### 🔹 Proyecto Integrador 2
 
-\* Arquitectura de datos
+Análisis exploratorio y transformación de datos.
 
-\* Data Engineering
+🔗 Repo:
+https://github.com/Yael-Authier/proyecto-integrador-2
 
-\* Model serving
+---
 
-\* Automatización
+### 🔹 Proyecto Integrador 1
 
+Primer proyecto integrador orientado a análisis de datos y Python.
 
+🔗 Repo:
+https://github.com/Yael-Authier/proyecto-integrador-1
 
-\---
+---
 
+### 🔹 Trabajo Filtro Reclamos
 
+Automatización y filtrado de reclamos de PedidosYa.
 
-\## Contacto
+🔗 Repo:
+https://github.com/Yael-Authier/Trabajo-Filtro-Reclamamos
 
+---
 
+## 📚 Actualmente aprendiendo
 
-\* LinkedIn:
+* MLOps
+* Deploy cloud
+* Data Engineering
+* Arquitectura de datos
+* Automatización
 
-&#x20; https://www.linkedin.com/in/yael-authier
+---
 
+## 📫 Contacto
 
+* LinkedIn:
+  https://www.linkedin.com/in/yael-authier
 
-\* GitHub:
-
-&#x20; https://github.com/Yael-Authier
-
-
-
+* GitHub:
+  https://github.com/Yael-Authier

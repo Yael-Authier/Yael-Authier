@@ -1,115 +1,87 @@
-# Hola 👋 Soy Yael Authier
+<h1 align="center">Hi 👋, I'm Yael Authier</h1>
 
-### Growth Strategist | Comercial & Marketing | Data Science & MLOps
-
-Actualmente trabajo liderando iniciativas de crecimiento, analítica, fidelización, delivery y expansión comercial en gastronomía, mientras desarrollo proyectos de Data Science, Machine Learning y MLOps orientados a negocio y automatización.
-
-🔗 LinkedIn
-https://www.linkedin.com/in/yael-authier
+<h3 align="center">
+Growth Strategist | Business Operations | Data Analytics | MLOps & AI Enthusiast
+</h3>
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## 🚀 About Me
 
-* Python
-* Pandas / NumPy
-* Scikit-Learn
-* XGBoost / CatBoost
-* FastAPI
-* Streamlit
-* Docker
-* Git & GitHub
-* SonarCloud
-* Power BI
-* SQL
-* Machine Learning
-* MLOps
+- 🔭 Currently working on Growth, Operations & Loyalty strategies
+- 🌱 Learning Data Science, Machine Learning and MLOps
+- 📊 Passionate about analytics, performance and customer experience
+- ⚡ Building ML projects with FastAPI, Docker, Streamlit and GitHub Actions
+- 🚀 Focused on business optimization through data-driven decision making
+- 🎯 Strong mix of strategy, operations, analytics and execution
 
 ---
 
-## 📌 Proyectos publicados
+## 🛠️ Tech Stack
 
-### 🔹 Proyecto Integrador 5 - MLOps
+### 📌 Languages & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-Pipeline completo de Machine Learning y MLOps para predicción de pago de créditos.
+### 📌 Machine Learning & MLOps
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Incluye:
+### 📌 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-* FastAPI
-* Docker
-* Streamlit
-* SonarCloud
-* CI/CD
-* Tests automáticos
-* Deploy en Render
+---
 
-🔗 Repo:
+## 📂 Featured Projects
+
+### 🔹 Credit Risk Prediction API
+Machine Learning pipeline with:
+- FastAPI deployment
+- Docker containerization
+- Streamlit dashboard
+- Automated testing
+- SonarCloud integration
+- GitHub Actions CI/CD
+
+🔗 Repository:
 https://github.com/Yael-Authier/proyecto-integrador-5
 
-🔗 API deployada:
-https://pi-m5-riesgo-crediticio.onrender.com/docs
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yael-Authier&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yael-Authier&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Authier&layout=compact&theme=tokyonight" alt="langs" />
+</p>
 
 ---
 
-### 🔹 Proyecto Integrador 4
+## 🤝 Connect with Me
 
-Machine Learning aplicado a análisis predictivo y evaluación de modelos.
+<p align="left">
+<a href="https://www.linkedin.com/in/yael-authier/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
 
-🔗 Repo:
-https://github.com/Yael-Authier/proyecto-integrador-4
-
----
-
-### 🔹 Proyecto Integrador 3
-
-Procesamiento, análisis y visualización de datos.
-
-🔗 Repo:
-https://github.com/Yael-Authier/proyecto-integrador-3
+<a href="https://github.com/Yael-Authier" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-### 🔹 Proyecto Integrador 2
-
-Análisis exploratorio y transformación de datos.
-
-🔗 Repo:
-https://github.com/Yael-Authier/proyecto-integrador-2
-
----
-
-### 🔹 Proyecto Integrador 1
-
-Primer proyecto integrador orientado a análisis de datos y Python.
-
-🔗 Repo:
-https://github.com/Yael-Authier/proyecto-integrador-1
-
----
-
-### 🔹 Trabajo Filtro Reclamos
-
-Automatización y filtrado de reclamos de PedidosYa.
-
-🔗 Repo:
-https://github.com/Yael-Authier/Trabajo-Filtro-Reclamamos
-
----
-
-## 📚 Actualmente aprendiendo
-
-* MLOps
-* Deploy cloud
-* Data Engineering
-* Arquitectura de datos
-* Automatización
-
----
-
-## 📫 Contacto
-
-* LinkedIn:
-  https://www.linkedin.com/in/yael-authier
-
-* GitHub:
-  https://github.com/Yael-Authier
+⭐ Always learning, building and improving through strategy, analytics and technology.

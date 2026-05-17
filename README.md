@@ -4,6 +4,25 @@
 Growth Strategist | Business Operations | Data Analytics | MLOps & AI Enthusiast
 </h3>
 
+<h1 align="center">Hi 👋, I'm Yael Authier</h1>
+
+<h3 align="center">
+Growth Strategist | Business Operations | Data Analytics | MLOps & AI Enthusiast
+</h3>
+
+<p align="center">
+  <a href="https://yael-authier.github.io/" target="_blank">
+    🌐 Portfolio
+  </a>
+  ·
+  <a href="https://www.linkedin.com/in/yael-authier/" target="_blank">
+    LinkedIn
+  </a>
+  ·
+  <a href="https://github.com/Yael-Authier" target="_blank">
+    GitHub
+  </a>
+</p>
 ---
 
 ## 🚀 About Me
@@ -39,6 +58,9 @@ Growth Strategist | Business Operations | Data Analytics | MLOps & AI Enthusiast
 ---
 
 ## 📂 Featured Projects
+
+🌐 Portfolio:
+https://yael-authier.github.io/
 
 ### 🔹 Credit Risk Prediction API
 Machine Learning pipeline with:

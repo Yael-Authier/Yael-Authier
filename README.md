@@ -4,12 +4,6 @@
 Growth Strategist | Business Operations | Data Analytics | MLOps & AI Enthusiast
 </h3>
 
-<h1 align="center">Hi 👋, I'm Yael Authier</h1>
-
-<h3 align="center">
-Growth Strategist | Business Operations | Data Analytics | MLOps & AI Enthusiast
-</h3>
-
 <p align="center">
   <a href="https://yael-authier.github.io/" target="_blank">
     🌐 Portfolio

@@ -73,19 +73,16 @@ https://github.com/Yael-Authier/proyecto-integrador-5
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Yael-Authier&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Yael-Authier&show_icons=true&theme=tokyonight&cache_seconds=1800"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Authier&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Authier&layout=compact&theme=tokyonight&cache_seconds=1800"
   />
 </p>
-
 ---
 
 ## 🤝 Connect with Me

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yael Authier</h1>
 
 <h3 align="center">
-Growth Strategist | Business Operations | Data Analytics | MLOps & AI Enthusiast
+Growth Strategist | Business Operations | Data Analytics | Machine Learning & MLOps
 </h3>
 
 <p align="center">
@@ -17,10 +17,10 @@ Growth Strategist | Business Operations | Data Analytics | MLOps & AI Enthusiast
 ## 🚀 About Me
 
 - 🔭 Currently working on Growth, Operations & Loyalty strategies
-- 🌱 Learning Data Science, Machine Learning and MLOps
-- 📊 Passionate about analytics, performance and customer experience
-- ⚡ Building ML projects with FastAPI, Docker, Streamlit and GitHub Actions
-- 🚀 Focused on business optimization through data-driven decision making
+- 🌱 Building end-to-end Machine Learning applications
+- 📊 Passionate about analytics, recommendation systems and customer experience
+- ⚡ Developing ML solutions with Python, FastAPI, Streamlit, Docker and Cloud Deployment
+- 🚀 Focused on turning data into business decisions
 - 🎯 Strong mix of strategy, operations, analytics and execution
 
 ---
@@ -32,10 +32,12 @@ Growth Strategist | Business Operations | Data Analytics | MLOps & AI Enthusiast
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 📌 Machine Learning & MLOps
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -50,39 +52,77 @@ Growth Strategist | Business Operations | Data Analytics | MLOps & AI Enthusiast
 
 ---
 
-## 📂 Featured Project
+# 📂 Featured Project
 
-### 🔹 Credit Risk Prediction API
+## 🛒 Hybrid Recommendation System
 
-Machine Learning and MLOps end-to-end project for credit payment prediction.
+End-to-end Machine Learning application built over the **Instacart Market Basket Analysis** dataset.
 
-Includes:
+The project implements a **hybrid recommendation architecture** that automatically selects the best recommendation strategy according to each user's purchasing behavior.
+
+### 🚀 Highlights
+
+- Hybrid Recommendation Architecture
+- Customer Segmentation (K-Means)
+- Item-Item Collaborative Filtering
+- Market Basket Analysis (FP-Growth)
+- Reorder Prediction (XGBoost)
+- FastAPI REST API
+- Streamlit Dashboard
+- Docker Deployment
+- Render Cloud
+- Automatic Model Download from Google Drive
+
+### 👩‍💻 My Contributions
+
+- Designed and developed the Streamlit dashboard.
+- Integrated the dashboard with the FastAPI backend.
+- Implemented the Docker + Render deployment.
+- Automated model download from Google Drive.
+- Designed the system architecture.
+- Wrote the technical documentation and README.
+- Participated in the end-to-end integration and testing.
+
+> Developed collaboratively by the **Data Horizon** team.
+
+🔗 **Repository**  
+https://github.com/Yael-Authier/Hybrid-Recommendation-System
+
+🚀 **Live Demo**  
+https://proyectofinal-datascience-henry.onrender.com
+
+---
+
+## 📂 Previous Project
+
+### 💳 Credit Risk Prediction API
+
+Machine Learning and MLOps project for credit payment prediction.
+
+Highlights:
 
 - Exploratory Data Analysis
 - Feature Engineering
-- Supervised Machine Learning models
-- XGBoost model selection
-- SMOTE class balancing
-- Data Drift monitoring
-- FastAPI deployment
-- Docker containerization
-- Streamlit dashboard
-- Automated testing with Pytest
-- SonarCloud quality analysis
-- GitHub Actions CI/CD
-- Render cloud deployment
+- XGBoost Model Selection
+- SMOTE Class Balancing
+- Data Drift Monitoring
+- FastAPI
+- Docker
+- Streamlit
+- GitHub Actions
+- SonarCloud
+- Render Deployment
 
-🔗 Repository:  
+🔗 Repository  
 https://github.com/Yael-Authier/proyecto-integrador-5
 
-🚀 API deployed:  
+🚀 API  
 https://pi-m5-riesgo-crediticio.onrender.com/docs
 
 ---
 
 ## 🌐 Portfolio
 
-Personal portfolio:  
 https://yael-authier.github.io/
 
 ---
@@ -93,12 +133,8 @@ https://yael-authier.github.io/
 <a href="https://www.linkedin.com/in/yael-authier/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
-
-<a href="https://github.com/Yael-Authier" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
-</a>
 </p>
 
 ---
 
-⭐ Always learning, building and improving through strategy, analytics and technology.
+⭐ *Always learning, building and improving through strategy, analytics and technology.*
